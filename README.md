@@ -7,7 +7,7 @@
 <a href="https://expo.dev/@avijit_chy/DoneWithIt">link for project</a>
 
 <h3>project Image</h3>
-<img src="./photo.png">
+<img src="./assets/photo.jpg">
 
 </body>
 
